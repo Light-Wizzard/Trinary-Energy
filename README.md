@@ -9,3 +9,9 @@ I will work on many concepts,
 including an Infinity Machine, Water Battery, and other ways that work.
 
 I am only interested in what works, and what people can build themselves.
+
+I see video about Infinity Machines that look like this:
+
+![Infinity Machine](https://github.com/Light-Wizzard/Trinary-Energy/blob/main/images/Infinity.png)
+
+I have no idea if it works, there are a lot of scams just to get you to watch their video.
