@@ -57,4 +57,13 @@ I will use the following:
 * DC and AC Electric Generator to test both methodes
 * Plastic type Board to test machine on
 * Plastic to hold magnetic wire in place making framework
+* Magnets
+* Toroid
+* Capacitors
+* Resisters
+* Diods
+* Transistors
+* Coil
 
+We will have holders for the magnets, coil, and generator,
+the magnets need to be removalbe to test the coil without them.
