@@ -51,9 +51,9 @@ it needs to be strong enought to hold the wire while the engine rotates.
 Using Science, we make a test model, and document it,
 I will use the following:
 
-* Magnetic Wire
-* Magnetic Flux Film
-* Magnetic Polarity Tester
+* [Magnetic Wire](https://www.amazon.com/Remington-Industries-2232MWKIT-25-Magnet-Enameled/dp/B01EIPQQFK)
+* [Magnetic Flux Film](https://www.amazon.com/CMS-MAGNETICS-Magnetism-Applicable-Including/dp/B0B5YJ8CWM)
+* [Magnetic Polarity Tester](https://www.amazon.com/General-Tools-AMY6-Magnetic-Tester/dp/B0019F90JW)
 * DC and AC Electric Generator to test both methodes
 * Plastic type Board to test machine on
 * Plastic to hold magnetic wire in place making framework
