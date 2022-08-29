@@ -24,3 +24,14 @@ I see video about Infinity Machines that look like this:
 ![Infinity Machine](https://github.com/Light-Wizzard/Trinary-Energy/blob/main/images/Infinity.png)
 
 I have no idea if it works, there are a lot of scams just to get you to watch their video.
+
+I have one goal in the project, keep it simple, 
+I want to design a magnetic wire frame model with magnets,
+with enough power to generate enough power to run a DC or AC Light or LED, or other load,
+without the need add more energy, no fuel, and no magic,
+which is what a lot of scamers use, hidden batteries, power lines, 
+and other ways to cheat, 
+this must scale up to power a house for the project goals to be met.
+
+I want to build a framework to mold the magnetic wire around, 
+it needs to be strong enought to hold the wire while the engine rotates.
