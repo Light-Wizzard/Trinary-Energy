@@ -97,18 +97,32 @@ The main frame of this system called a Trinary Energy Motor,
 
 ## Trinary-Energy-Motor
 
+The Trinary Energy Motor is a system comprised of a frame,
+that holds a model that supports the magnetic wire, 
+I will call this a The Trinary Energy Motor Model, 
+it is non-conductive, and most be balanced, 
+and support high speeds.
+
 ## Generator
 
-The Trinary Energy Motor
+The Trinary Energy Motor is what drives the Generator.
 
 ## Testing
+
+We need to build this project on a 24" by 12" conductive board,
+and we need to have a multimeter, and Magnetic Polarity Tester, 
+other equipment that would make this testing better is:
+
+* Oscilscope
+* Spectrum Analyzer if not in Oscilscope
 
 ## Help
 
 This project only uses the issue, there are other unrelated forums like:
 Over Unity [https://overunity.com/5144/infinity-coil/](https://overunity.com/5144/infinity-coil/)
 
-[Wiki](#wiki)
+See the Wiki for more information:
+[Wiki](https://github.com/Light-Wizzard/Trinary-Energy/wiki)
 
 ### End
 
