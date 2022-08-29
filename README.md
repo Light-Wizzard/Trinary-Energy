@@ -1,5 +1,4 @@
-​
-​# Trinary-Energy
+# Trinary-Energy
 
 This is a project to build a working self-prepetuating device that can generate electricity.
 
