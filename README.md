@@ -23,7 +23,19 @@ I see video about Infinity Machines that look like this:
 
 ![Infinity Machine](https://github.com/Light-Wizzard/Trinary-Energy/blob/main/images/Infinity.png)
 
-I have no idea if it works, there are a lot of scams just to get you to watch their video.
+I have no idea if it works, there are a lot of scams just to get you to watch their video, 
+so I will not link to this video, only tell you they give no details,
+and do not seem to answer questoins about it,
+I did look at the book about the Infinity Coil,
+and did not find any information about it,
+in the form of schmatics,
+so maybe I missed something,
+but what he said in the book was mostly correct,
+I did not varify it, so I say mostly,
+we have the need for this techolgy,
+but he admits, he did not know it, the person that told he not to share this does,
+so maybe there is nothing to this,
+but I do not most such devices do not work, so my goal is simple, science.
 
 I have one goal in the project, keep it simple, 
 I want to design a magnetic wire frame model with magnets,
@@ -35,3 +47,14 @@ this must scale up to power a house for the project goals to be met.
 
 I want to build a framework to mold the magnetic wire around, 
 it needs to be strong enought to hold the wire while the engine rotates.
+
+Using Science, we make a test model, and document it,
+I will use the following:
+
+* Magnetic Wire
+* Magnetic Flux Film
+* Magnetic Polarity Tester
+* DC and AC Electric Generator to test both methodes
+* Plastic type Board to test machine on
+* Plastic to hold magnetic wire in place making framework
+
