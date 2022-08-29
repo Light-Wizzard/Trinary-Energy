@@ -67,3 +67,9 @@ I will use the following:
 
 We will have holders for the magnets, coil, and generator,
 the magnets need to be removalbe to test the coil without them.
+
+## Forums
+
+[https://overunity.com/5144/infinity-coil/](https://overunity.com/5144/infinity-coil/)
+
+### End
