@@ -1,10 +1,12 @@
 # Trinary-Energy
 
-This is a project to build a working self-prepetuating device that can generate electricity.
+This is a project to build a working self-perpetuating device that can generate electricity.
 
 It has two parts, the self-perpetuating, and the generator.
 
 Energy scavaging is another part of this project, this will use Crystals, to scavenge vibrations and heat, and turn them into electricity, which will be used to enhance the cooling and control vibrations.
+
+I will be storing [Blender](https://www.blender.org/) files, images, and other formats to show schematics.
 
 Table of Content
 
@@ -18,10 +20,10 @@ Table of Content
 ## Introduction
 
 Energy from Electrons,
-Trinary is the same as Trinity only without the Religion, 
+Trinary is the same as Trinity only without the Religion,
 it is the 3 Logical State changes seen in Atoms under an Electron Microscope,
-you can see a Solid State, Semisolid State, 
-and an Invisible State. The Father is the Solid State of Matter, 
+you can see a Solid State, Semisolid State,
+and an Invisible State. The Father is the Solid State of Matter,
 the Son is the Semisolid State of Antimatter, and the Holy Ghost Spirit of Mother Nature is Invisible.
 
 I will work on designing an Electricity Generator that will power a house,
@@ -30,9 +32,9 @@ including an Infinity Machine, Water Battery, and other ways that work.
 
 I am only interested in what works, and what people can build themselves.
 
-We know about concepts like 
+We know about concepts like
 Free Energy, Zero Point Energy, Coils, Torus, and other Electronic concepts,
-yet we use Nuclear Power, no one will ever learn that lesson, 
+yet we use Nuclear Power, no one will ever learn that lesson,
 we know the Torah said God is All Light without Darkness,
 we know this is found inside all the Atoms, and all Atoms are Trinary,
 because they have Trinary State Changes,
@@ -68,7 +70,8 @@ and other ways to cheat,
 this must scale up to power a house for the project goals to be met.
 
 I want to build a framework to mold the magnetic wire around,
-it needs to be strong enough to hold the wire while the engine rotates.
+it needs to be strong enough to hold the wire while the engine rotates,
+and balanced for high speeds.
 
 ## Parts
 
@@ -94,27 +97,38 @@ We will have holders for the magnets, coil, and generator,
 the magnets need to be removable to test the coil without them.
 
 The main frame of this system called a Trinary Energy Motor,
+it is the frame, and can be mounted to the Test Platform,
+this is a non-conductive material, that can be 3D printed,
+
 
 ## Trinary-Energy-Motor
 
 The Trinary Energy Motor is a system comprised of a frame,
-that holds a model that supports the magnetic wire, 
-I will call this a The Trinary Energy Motor Model, 
-it is non-conductive, and most be balanced, 
+that holds a model that supports the magnetic wire,
+I will call this the Trinary Energy Motor Model,
+it is non-conductive, and must be balanced,
 and support high speeds.
 
 ## Generator
 
 The Trinary Energy Motor is what drives the Generator.
 
+The Generator can be off the shelf, AC or DC,
+it all comes down to how much horsepower and RPMs it takes.
+
+I would like to design a low RPM, low torque Generator.
+
 ## Testing
 
-We need to build this project on a 24" by 12" conductive board,
-and we need to have a multimeter, and Magnetic Polarity Tester, 
+We need to build this project on a Test Platform 24" by 12" conductive board,
+and we need to have a multimeter, and Magnetic Polarity Tester,
 other equipment that would make this testing better is:
 
-* Oscilscope
-* Spectrum Analyzer if not in Oscilscope
+* Oscilloscope
+* Spectrum Analyzer if not in Oscilloscope
+* 3D Printer
+* Soldering Iron
+
 
 ## Help
 
@@ -127,3 +141,4 @@ See the Wiki for more information:
 ### End
 
 This is the End of this Document.
+
