@@ -1,5 +1,16 @@
 # Trinary Energy
 
+Table of Content
+
+1. [Introduction](#Introduction)
+2. [Parts](#Parts)
+3. [Trinary Energy Motor](#Trinary-Energy-Motor)
+4. [Generator](#Generator)
+5. [Testing](#Testing)
+6. [Help](#Help)
+
+## Introduction
+
 Energy from Electrons,
 Trinary is the same as Trinity only without the Religion, it is the 3 Logical State changes seen in Atoms under an Electron Microscope,
 you can see a Solid State, Semisolid State, and an Invisible State. The Father is the Solid State of Matter, the Son is the Semisolid State of Antimatter, and the Holy Ghost Spirit of Mother Nature is Invisible.
@@ -48,6 +59,8 @@ this must scale up to power a house for the project goals to be met.
 I want to build a framework to mold the magnetic wire around, 
 it needs to be strong enought to hold the wire while the engine rotates.
 
+## Parts
+
 Using Science, we make a test model, and document it,
 I will use the following:
 
@@ -68,8 +81,21 @@ I will use the following:
 We will have holders for the magnets, coil, and generator,
 the magnets need to be removalbe to test the coil without them.
 
-## Forums
+The main frame of this system called a Trinary Energy Motor, 
 
+## Trinary-Energy-Motor
+
+## Generator
+
+The Trinary Energy Motor
+
+## Testing
+
+## Help
+
+This project only uses the issue, there are other unrelated forums like:
 Over Unity [https://overunity.com/5144/infinity-coil/](https://overunity.com/5144/infinity-coil/)
+
+[Wiki](#wiki)
 
 ### End
