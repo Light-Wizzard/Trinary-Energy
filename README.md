@@ -99,7 +99,7 @@ the magnets need to be removable to test the coil without them.
 The main frame of this system called a Trinary Energy Motor,
 it is the frame, and can be mounted to the Test Platform,
 this is a non-conductive material, that can be 3D printed,
-
+it will also house any Magnets and other internal parts.
 
 ## Trinary-Energy-Motor
 
@@ -107,7 +107,23 @@ The Trinary Energy Motor is a system comprised of a frame,
 that holds a model that supports the magnetic wire,
 I will call this the Trinary Energy Motor Model,
 it is non-conductive, and must be balanced,
-and support high speeds.
+and support high speeds,
+and ideally would be 3D printed for accuracy.
+
+We must first design the Model,
+and I do not have any software that will do this,
+but I will test out software that might help,
+and since I only have access to a Linux,
+Arch Linux Manjaro is my main OS,
+and I have Windows 10 and 11,
+but want to keep this open source,
+so I will only use Linux,
+and use WINE,
+Windows Integration Not Emulation,
+to run any Windows application I need,
+as such,
+only ones that I can get running will be included,
+so you will find a Wiki on [Wine](https://github.com/Light-Wizzard/Trinary-Energy/wiki/Wine).
 
 ## Generator
 
@@ -141,4 +157,3 @@ See the Wiki for more information:
 ### End
 
 This is the End of this Document.
-
