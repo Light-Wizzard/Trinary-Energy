@@ -70,6 +70,6 @@ the magnets need to be removalbe to test the coil without them.
 
 ## Forums
 
-[https://overunity.com/5144/infinity-coil/](https://overunity.com/5144/infinity-coil/)
+Over Unity [https://overunity.com/5144/infinity-coil/](https://overunity.com/5144/infinity-coil/)
 
 ### End
